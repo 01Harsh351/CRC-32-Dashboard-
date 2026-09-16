@@ -1,0 +1,6 @@
+{
+  "name": "CRC-32 Dashboard – Development and Integration",
+  "description": "Academic verification dashboard for CRC-32 IEEE 802.3 polynomial generation, modulo-2 division, error simulation, and CSV reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
